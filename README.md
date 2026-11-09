@@ -5,7 +5,7 @@
 # qs <sup>[![Version Badge][npm-version-svg]][package-url]</sup>
 
 [![github actions][actions-image]][actions-url]
-[![coverage][codecov-image]][codecov-url]
+[![coverage][codecov-image]][codecov-url] 
 [![License][license-image]][license-url]
 [![Downloads][downloads-image]][downloads-url]
 [![CII Best Practices](https://bestpractices.coreinfrastructure.org/projects/9058/badge)](https://bestpractices.coreinfrastructure.org/projects/9058)
